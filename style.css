@@ -183,8 +183,8 @@ body {
   flex-direction: column;
 }
 .head-txt-size {
-  font-size: 23px;
-  font-weight: 600;
+  font-size: 22px;
+  font-weight: 700;
 }
 .head-txt-color {
   background-color: #3c3c3c;
@@ -231,7 +231,7 @@ body {
   border: none;
   color: white;
   position: absolute;
-  bottom: -23%;
+  bottom: -21%;
 }
 .section2-cards-2 {
   width: 371px;
