@@ -1,0 +1,28 @@
+<svg width="268" height="115" viewBox="0 0 268 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_304" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="-99" width="359" height="214">
+<path d="M3.91016 114.849L0.781769 -92.791L355.303 -98.1323L358.431 109.508L3.91016 114.849Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_304)">
+<mask id="mask1_1_304" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-55" y="-177" width="469" height="371">
+<path d="M-54.7163 25.5653L81.157 -176.368L413.865 -8.85865L277.995 193.072L-54.7163 25.5653Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_1_304)">
+<mask id="mask2_1_304" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-45" y="-189" width="469" height="371">
+<path d="M-44.6865 13.7747L91.1868 -188.159L423.895 -20.6492L288.025 181.282L-44.6865 13.7747Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_1_304)">
+<mask id="mask3_1_304" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-45" y="-189" width="470" height="371">
+<path d="M-44.4348 13.9007L91.5331 -188.17L424.141 -20.7137L288.173 181.357L-44.4348 13.9007Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_1_304)">
+<mask id="mask4_1_304" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-45" y="-188" width="469" height="370">
+<path d="M-44.4346 13.9005L91.4095 -187.986L423.866 -20.6058L288.025 181.281L-44.4346 13.9005Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_1_304)">
+<path d="M122.658 -34.2536L164.739 29.6394L145.442 58.3162L84.368 -34.3292L122.658 -34.2536ZM210.48 -34.1506L251.168 27.6154L168.982 27.5313L128.271 -34.2689L210.48 -34.1506ZM362.108 62.798L341.359 93.636L124.667 93.3843L18.7174 -67.385L232.653 -67.1032L316.822 60.6682L149.66 60.4295L168.953 31.7556L259.586 31.8654L213.324 -38.3768L75.953 -38.5822L144.003 64.6578L325.237 64.9183L236.893 -69.2141L256.219 -97.9376L362.108 62.798ZM38.076 -100.341L252.011 -100.063L232.682 -71.3362L18.7501 -71.6238L38.076 -100.341ZM257.671 -104.276L35.2884 -104.581L11.6962 -69.5167L121.827 97.6076L344.153 97.8669L367.745 62.7996L257.671 -104.276Z" fill="#FF0000"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
